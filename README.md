@@ -1,2 +1,2 @@
-# OCR-skripsi
+# OCR_skripsi
 Demonstration purpose only
